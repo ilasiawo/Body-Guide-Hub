@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Body-Guide-Hub/static/css/main.20acbc28.css",
+    "main.js": "/Body-Guide-Hub/static/js/main.c7e9900e.js",
+    "static/media/Logo-1.png": "/Body-Guide-Hub/static/media/Logo-1.fb01d0a93f953be61218.png",
+    "static/media/banner.png": "/Body-Guide-Hub/static/media/banner.19fea20859f086843fc2.png",
+    "static/media/gym.png": "/Body-Guide-Hub/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Body-Guide-Hub/index.html",
+    "main.20acbc28.css.map": "/Body-Guide-Hub/static/css/main.20acbc28.css.map",
+    "main.c7e9900e.js.map": "/Body-Guide-Hub/static/js/main.c7e9900e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.c7e9900e.js"
+  ]
+}
