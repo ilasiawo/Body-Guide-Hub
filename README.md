@@ -1,10 +1,18 @@
-# React Fitness Application
-<img width="1494"<img width="1496" alt="Screenshot 2023-12-02 at 6 11 22 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/7bf79030-a398-44f7-9150-02dc25b4c4b2">
- alt="Screenshot 2023-12-02 at 6 10 47 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/7714873e-43bc-4338-a7ae-18ad8ba479fe">
 
-![React Fitness Applicati<img width="1495" alt="Screenshot 2023-12-02 at 6 09 34 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/9b864515![Uploading Screenshot 2023-12-02 at 6.12.06 PM.png…]()
--2a69-4611-b77c-a441a556d2a2">
-on](https://i.ibb.co/Yt9spGc/i<img width="1496" alt="Screenshot 2023-12-02 at 6 10 12 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/04818499-553c-45af-9b8e-65202955858a">
-mage.png)
+
 
 # Body-Guide-Hub
+<img width="1494" alt="Screenshot 2023-12-02 at 6 22 16 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/f6826f37-b87e-4c8a-875e-183a7202b324">
+
+<img width="1496" alt="Screenshot 2023-12-02 at 6 10 12 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/0ba1c027-7ce8-4e21-bac4-a5dc3b26f75e">
+
+<img width="1494" alt="Screenshot 2023-12-02 at 6 10 47 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/40ef8b16-30d3-4cc6-8f26-6603ed7b808f"> 
+
+<img width="1496" alt="Screenshot 2023-12-02 at 6 12 06 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/7c150106-d2d9-427f-bb56-44dbe014b14f">
+
+<img width="1496" alt="Screenshot 2023-12-02 at 6 11 22 PM" src="https://github.com/ilasiawo/Body-Guide-Hub/assets/63829692/f50bfb67-001d-4cf6-9741-93555939896d">
+
+
+
+
+
